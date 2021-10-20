@@ -1,3 +1,8 @@
+# About this project
+
+This is a single page app that contains navigation links to website on one side, and on other main side it will contain twitter, faebook and custom fields.
+All information are loaded from Database.json file in public directory, If you want to add, edit, delete contents modify this JSON file and clear the cache if you cant see changes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
