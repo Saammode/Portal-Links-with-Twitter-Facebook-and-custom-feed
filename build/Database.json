@@ -1,0 +1,30 @@
+{"navLinks": [
+    {
+        "name": "Council Website",
+        "link": "https://gov.mv"
+    },
+    {
+    "name": "Gems",
+    "link": "https://faru.com"
+    },
+    {
+        "name": "Viuga",
+        "link": "https://vaguthu.mv"
+    },
+    {
+        "name": "E fass",
+        "link": "https://mihaaru.com"
+    }
+],
+
+"post": [
+    {
+        "heading": "<h1>Hey, Its our Internal Feed</h1>",
+        "postDetails": "<p>We will post important updates here<p><br><em>By Nolhivaranfaru Council Idhaaraa</em>"
+    },
+    {
+        "heading": "<h1>Urgent Meeting Today</h1>",
+        "postDetails": "<p>Miadhu 12:00 ah ehmen meeting room ah dhiyun edhen.<p><br><em>By Ahmed Tholaal</em>"
+    }
+]
+}
