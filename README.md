@@ -2,7 +2,8 @@
 
 This is a single page app that contains navigation links to website on one side, and on other main side it will contain twitter, faebook and custom fields.
 All information are loaded from Database.json file in public directory, If you want to add, edit, delete contents modify this JSON file and clear the cache if you cant see changes.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/Council.jpg?raw=true)
+
+![alt text](https://github.com/Saammode/Portal-Links-with-Twitter-Facebook-and-custom-feed/blob/main/CouncilPortal.png?raw=true)
 
 # Getting Started with Create React App
 
